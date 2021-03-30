@@ -1,6 +1,6 @@
 [user]
 	email = kentaro.ishii0407@gmail.com
-	name = kentaro_ishii0407
+	name = kex5n
 
 [alias]
 	co = checkout
@@ -11,3 +11,5 @@
 	graph = log --graph --date=short --decorate=short --pretty=format:'%Cgreen%h %Creset%cd %Cblue%cn %Cred%d %Creset%s'
 	gr = log --graph --date=short --decorate=short --pretty=format:'%Cgreen%h %Creset%cd %Cblue%cn %Cred%d %Creset%s'
 	cm = commit
+[color]
+	ui = auto
