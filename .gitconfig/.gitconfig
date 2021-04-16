@@ -4,6 +4,7 @@
 
 [alias]
 	co = checkout
+	add = add -p
 	br = branch
 	st = status
 	unstage = reset HEAD
